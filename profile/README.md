@@ -5,20 +5,21 @@
 
 ## About C3 Framework
 
-C3 Framework is, at is core, a CLI build tool + TypeScript utilities, that allows you to create [Construct 3](https://construct.net) plugins, behaviors and themes, in a expressive and elegant way, **without code repetition nor boilerplate**.
+C3 Framework is a set of TypeScript utilities and a CLI tool to automate the process of creating [Construct 3](https://construct.net) plugins, behaviors and themes, in a expressive and elegant way, **without code repetition nor boilerplate**.
 
 With C3 Framework you don't need 10+ configuration files, you just write code, and from it, C3 Framework reads it, understands it and generates all the boilerplate for you!
 
 C3 Framework features:
 
-- Fully decoupled, **configurable** experience. Structure your project as you want.
-- **TypeScript** support for Behaviors & Plugins.
-- A custom and intelligent parser that understands and compiles your code.
-- Easy **Multi-language** support.
-- **SCSS/SASS** support for themes, with color palettes and variations generation.
-- Plug-and-play **local server**.
+- **Fully configurable**: Structure your project as you need.
+- **Highly-typed**: develop Behaviors & Plugins using TypeScript.
+- **ACEs Decorators**: All the ACE config is done in one single place, inside the same code.
+- **File scanning**: TypeScript definitions and File dependencies will be automatically detected and added.
+- **Multi-language support**: With an easy dot-notation/Laravel-inspired translation system for all strings.
+- **Themes**: Create your own themes with SCSS/SASS, with color palettes and variations generation.
+- **Development Server**: Just run a command and start developing!
 
-C3 Framework is meant to write the **less amount of code possible**, so you'll be surprised how quickly you start building your own plugins!
+C3 Framework is meant for you to write the **less amount of code possible**, so you'll be surprised how quickly you start building your own plugins!
 
 ## Learning C3 Framework
 
