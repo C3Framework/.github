@@ -23,6 +23,8 @@ C3 Framework is meant for you to write the **less amount of code possible**, so 
 
 ## Learning C3 Framework
 
+The **quickest way to start** is by using the [npx create-c3fo](https://github.com/C3Framework/create-c3fo) command.
+
 You can check [C3Framework/examples](https://github.com/C3Framework/examples) for examples that replicate [Scirra's own examples](https://github.com/Scirra/Construct-Addon-SDK).
 
 You can clone [C3Framework/template-theme](https://github.com/C3Framework/template-theme) to quickly get started on creating **themes**.
@@ -32,4 +34,7 @@ You can clone [C3Framework/template-theme](https://github.com/C3Framework/templa
 C3 Framework is a fully tested framework/building tool. Some plugins that have been created using C3 Framework, include:
 
 - [Himmlisch Theme](https://masterpose.itch.io/himmlisch-theme-c3)
+- [SnapTo Camera](https://masterpose.itch.io/snap-to-c3)
 - [Twitch Suite](https://masterpose.itch.io/twitch-c3)
+- [Construct Primitives](https://masterpose.itch.io/primitives-c3)
+- [SAM Text-To-Speech](https://masterpose.itch.io/sam-c3)
